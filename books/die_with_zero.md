@@ -1,5 +1,5 @@
 # Die with Zero
-Authors: Bill Perkins
+Author: Bill Perkins
 
 >Death wakes people up, and the closer it gets, the more awake and aware we become. When the end is near, we suddenly start thinking, What the hell am I doing? Why did I wait this long? Until then, most of us go through life as if we had all the time in the world.
 
