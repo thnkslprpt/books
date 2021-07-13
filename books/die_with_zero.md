@@ -1,5 +1,7 @@
 # Die with Zero
 Author: Bill Perkins
+[Amazon](https://amzn.to/3hyIr9m)
+[Goodreads](https://www.goodreads.com/en/book/show/52950915-die-with-zero)
 
 >Death wakes people up, and the closer it gets, the more awake and aware we become. When the end is near, we suddenly start thinking, What the hell am I doing? Why did I wait this long? Until then, most of us go through life as if we had all the time in the world.
 
