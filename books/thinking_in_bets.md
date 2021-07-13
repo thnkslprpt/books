@@ -1,6 +1,6 @@
 # Thinking in Bets
 Author: Annie Duke  
-[Amazon](https://amzn.to/3r4AxaO)  
+[Amazon](https://amzn.to/2T6D3ki)  
 [Goodreads](https://www.goodreads.com/book/show/35957157-thinking-in-bets)  
 
 >The hazards of resulting Take a moment to imagine your best decision in the last year. Now take a moment to imagine your worst decision. I’m willing to bet that your best decision preceded a good result and the worst decision preceded a bad result. That is a safe bet for me because resulting isn’t just something we do from afar. Monday Morning Quarterbacks are an easy target, as are writers and bloggers providing instant analysis to a mass audience. But, as I found out from my own experiences in poker, resulting is a routine thinking pattern that bedevils all of us. Drawing an overly tight relationship between results and decision quality affects our decisions every day, potentially with far-reaching, catastrophic consequences.

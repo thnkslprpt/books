@@ -1,6 +1,6 @@
 # The Bed of Procrustes  
 Author: Nassim Nicholas Taleb  
-[Amazon](https://amzn.to/3ySp6Wt)  
+[Amazon](https://amzn.to/3keEzMf)  
 [Goodreads](https://www.goodreads.com/book/show/9402297-the-bed-of-procrustes)  
 
 >The person you are the most afraid to contradict is yourself.

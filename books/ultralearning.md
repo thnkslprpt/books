@@ -1,6 +1,6 @@
 # Ultralearning
 Author: Scott Young  
-[Amazon](https://amzn.to/3i87fny)  
+[Amazon](https://amzn.to/36zJEqt)  
 [Goodreads](https://www.goodreads.com/book/show/44770129-ultralearning)  
 
 >The idea of taking on an ambitious project—like studying MIT’s undergraduate curriculum in one year or learning a new language every three months—is inspirational to many people. I certainly found these bold projects fascinating. But there was something else about Scott’s projects that resonated with me on a deeper level: he had a bias toward action. This is something I have always appreciated about Scott’s approach and something I believe you will appreciate as a reader of this book. He isn’t focused on simply soaking up knowledge. He is committed to putting that knowledge to use. Approaching learning with an intensity and commitment to action is a hallmark of Scott’s process. This approach speaks to me, in part, because I see similar patterns in my own life and career. Some of my most meaningful experiences have been the result of intense self-directed learning.
