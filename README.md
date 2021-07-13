@@ -1,7 +1,7 @@
 # books
 Books notes, highlights and recommendations  
 
-#### Die with Zero
+### Die with Zero
 Author: Bill Perkins  
 [Highlights](books/die_with_zero.md)  
 [Amazon](https://amzn.to/36zGEuc)  
