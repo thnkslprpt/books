@@ -15,3 +15,13 @@ Books notes, highlights and recommendations
 [Highlights](books/tuesdays_with_morrie.md)  
 [Amazon](https://amzn.to/3eakKCg)  
 [Goodreads](https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie)  
+
+## Thinking in Bets, by Annie Duke  
+[Highlights](books/thinking_in_bets.md)  
+[Amazon](https://amzn.to/3r4AxaO)  
+[Goodreads](https://www.goodreads.com/book/show/35957157-thinking-in-bets)  
+
+## The Bed of Procrustes, by Nassim Taleb
+[Highlights](books/the_bed_of_procrustes.md)  
+[Amazon](https://amzn.to/3ySp6Wt)  
+[Goodreads](https://www.goodreads.com/book/show/9402297-the-bed-of-procrustes)  
