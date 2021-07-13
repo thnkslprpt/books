@@ -30,3 +30,19 @@ Books notes, highlights and recommendations
 [Highlights](books/a_guide_to_the_good_life.md)  
 [Amazon](https://amzn.to/3ySHBdj)  
 [Goodreads](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)  
+
+## Survival+: Structuring Prosperity for Yourself and the Nation, by Charles Hugh Smith   
+[Highlights](books/survival_plus.md)  
+[Amazon](https://amzn.to/2UKsWSR)  
+[Goodreads](https://www.goodreads.com/book/show/7455156-survival)  
+
+## An Economist Walks Into a Brothel: And Other Unexpected Places to Understand Risk
+[Highlights](books/an_economist_walks_into_a_brothel.md)  
+[Amazon](https://amzn.to/3krbde3)  
+[Goodreads](https://www.goodreads.com/book/show/40909433-an-economist-walks-into-a-brothel)  
+
+## Art of Living: The Classical Manual on Virtue, Happiness, and Effectiveness
+[Highlights](books/the_art_of_living.md)  
+[Amazon](https://amzn.to/3ke7VKY)  
+[Goodreads](https://www.goodreads.com/book/show/24618.The_Art_of_Living)  
+    
