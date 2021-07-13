@@ -1,5 +1,5 @@
 # Thinking in Bets
-Author: Annie Duke
+Author: Annie Duke  
 [Amazon](https://amzn.to/3r4AxaO)  
 [Goodreads](https://www.goodreads.com/book/show/35957157-thinking-in-bets)  
 
