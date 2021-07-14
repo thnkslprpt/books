@@ -1,4 +1,4 @@
-# Four Horsemen : The Conversation That Sparked an Atheist Revolution
+# The Four Horsemen : The Conversation That Sparked an Atheist Revolution
 Authors: Christopher Hitchens, Richard Dawkins, Sam Harris and Daniel Dennett  
 [Amazon](https://amzn.to/3AZQJ1C)  
 [Goodreads](https://www.goodreads.com/book/show/40668391-the-four-horsemen)  

@@ -73,7 +73,7 @@ Author: Leo Babauta
 [Amazon](https://amzn.to/2VxjlyW)  
 [Goodreads](https://www.goodreads.com/book/show/9549534-focus)  
 
-### Four Horsemen : The Conversation That Sparked an Atheist Revolution
+### The Four Horsemen : The Conversation That Sparked an Atheist Revolution
 Authors: Christopher Hitchens, Richard Dawkins, Sam Harris and Daniel Dennett  
 [Highlights](books/four_horsemen.md)  
 [Amazon](https://amzn.to/3AZQJ1C)  
