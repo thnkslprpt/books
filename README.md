@@ -120,3 +120,27 @@ Author: Viktor Frankl
 [Highlights](books/mans_search_for_meaning.md)  
 [Amazon](https://amzn.to/3B0v21w)  
 [Goodreads](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)  
+
+### Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, From Birth to Preschool
+Author: Emily Oster  
+[Highlights](books/cribsheet.md)  
+[Amazon](https://amzn.to/3wyK7UA)  
+[Goodreads](https://www.goodreads.com/book/show/40121328-cribsheet)  
+
+### Prosper!: How to Prepare for the Future and Create a World Worth Inheriting
+Author: Chris Martenson  
+[Highlights](books/prosper.md)  
+[Amazon](https://amzn.to/3i8kq83)  
+[Goodreads](https://www.goodreads.com/book/show/27135293-prosper)  
+
+### The Decision Book
+Authors: Mikael Krogerus and Roman Tschappeler  
+[Highlights](books/the_decision_book.md)  
+[Amazon](https://amzn.to/3keoUwv)  
+[Goodreads](https://www.goodreads.com/book/show/9793361-the-decision-book)  
+
+### Your Money or Your Life
+Authors: Vicki Robin and Joe Dominguez  
+[Highlights](books/your_money_or_your_life.md)  
+[Amazon](https://amzn.to/2UPCD2s)  
+[Goodreads](https://www.goodreads.com/book/show/49807173-your-money-or-your-life)  
