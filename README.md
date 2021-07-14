@@ -55,3 +55,28 @@ Author: Epictetus
 [Amazon](https://amzn.to/3ke7VKY)  
 [Goodreads](https://www.goodreads.com/book/show/24618.The_Art_of_Living)  
   
+### Family Fortunes: How to Build Family Wealth and Hold on to It for 100 Years
+Authors: Bill and Will Bonner  
+[Highlights](books/family_fortunes.md)  
+[Amazon](https://amzn.to/3B1gRJy)  
+[Goodreads](https://www.goodreads.com/book/show/13838416-family-fortunes)  
+
+### Finding Ultra
+Author: Rich Roll  
+[Highlights](books/finding_ultra.md)  
+[Amazon](https://amzn.to/2Vx3aSg)  
+[Goodreads](https://www.goodreads.com/book/show/39665673-finding-ultra)  
+
+### Focus
+Author: Leo Babauta  
+[Highlights](books/focus.md)  
+[Amazon](https://amzn.to/2VxjlyW)  
+[Goodreads](https://www.goodreads.com/book/show/9549534-focus)  
+
+<!---
+### 
+Authors: 
+[Highlights](books/)  
+[Amazon]()  
+[Goodreads]()  
+-->
