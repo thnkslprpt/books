@@ -97,20 +97,26 @@ Author: Yuval Noah Harari
 [Amazon](https://amzn.to/3r9WB3P)  
 [Goodreads](https://amzn.to/3r9WB3P)  
 
-### 
-Authors: 
-[Highlights](books/
-[Amazon](
-[Goodreads](
+### The 80/20 Principle: The Secret to Achieving More with Less
+Author: Richard Koch
+[Highlights](books/80_20_principle.md)  
+[Amazon](https://amzn.to/3xHiF8i)  
+[Goodreads](https://www.goodreads.com/book/show/181206.The_80_20_Principle)  
 
-### 
-Authors: 
-[Highlights](books/
-[Amazon](
-[Goodreads](
+### Surely You're Joking, Mr. Feynman!
+Author: Richard P. Feynman  
+[Highlights](books/surely_youre_joking.md)  
+[Amazon](https://amzn.to/3ejFUxQ)  
+[Goodreads](https://www.goodreads.com/book/show/35167685-surely-you-re-joking-mr-feynman)  
 
-### 
-Authors: 
-[Highlights](books/
-[Amazon](
-[Goodreads](
+### Rich Dad Poor Dad
+Author: Robert T. Kiyosaki  
+[Highlights](books/rich_dad_poor_dad.md)  
+[Amazon](https://amzn.to/2T90hX0)  
+[Goodreads](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad)  
+
+### Man's Search for Meaning
+Author: Viktor Frankl  
+[Highlights](books/mans_search_for_meaning.md)  
+[Amazon](https://amzn.to/3B0v21w)  
+[Goodreads](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)  
