@@ -73,10 +73,44 @@ Author: Leo Babauta
 [Amazon](https://amzn.to/2VxjlyW)  
 [Goodreads](https://www.goodreads.com/book/show/9549534-focus)  
 
-<!---
+### Four Horsemen : The Conversation That Sparked an Atheist Revolution
+Authors: Christopher Hitchens, Richard Dawkins, Sam Harris and Daniel Dennett  
+[Highlights](books/four_horsemen.md)  
+[Amazon](https://amzn.to/3AZQJ1C)  
+[Goodreads](https://www.goodreads.com/book/show/40668391-the-four-horsemen)  
+
+### Direct Truth
+Author: Kapil Gupta  
+[Highlights](books/direct_truth.md)  
+[Amazon](https://amzn.to/3r8Ctz6)  
+[Goodreads](https://www.goodreads.com/book/show/40947505-direct-truth)  
+
+### The Art of Travel
+Author: Alain de Botton
+[Highlights](books/the_art_of_travel.md)  
+[Amazon](https://amzn.to/3B0PVJL)  
+[Goodreads](https://www.goodreads.com/book/show/23422.The_Art_of_Travel)  
+
+### Sapiens: A Brief History of Humankind
+Author: Yuval Noah Harari  
+[Highlights](books/sapiens.md)  
+[Amazon](https://amzn.to/3r9WB3P)  
+[Goodreads](https://amzn.to/3r9WB3P)  
+
 ### 
 Authors: 
-[Highlights](books/)  
-[Amazon]()  
-[Goodreads]()  
--->
+[Highlights](books/
+[Amazon](
+[Goodreads](
+
+### 
+Authors: 
+[Highlights](books/
+[Amazon](
+[Goodreads](
+
+### 
+Authors: 
+[Highlights](books/
+[Amazon](
+[Goodreads](
