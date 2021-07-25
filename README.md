@@ -144,3 +144,69 @@ Authors: Vicki Robin and Joe Dominguez
 [Highlights](books/your_money_or_your_life.md)  
 [Amazon](https://amzn.to/2UPCD2s)  
 [Goodreads](https://www.goodreads.com/book/show/49807173-your-money-or-your-life)  
+
+### Optionality
+Author: Richard Meadows  
+[Highlights](books/optionality.md)  
+[Amazon](https://amzn.to/2TD0mCG)  
+[Goodreads](https://www.goodreads.com/book/show/55738971-optionality)  
+
+### The Sabbath
+Author: Abraham Joshua Heschel  
+[Highlights](books/the_sabbath.md)   
+[Amazon](https://amzn.to/3rwYwjb)  
+[Goodreads](https://www.goodreads.com/book/show/345500.The_Sabbath)  
+
+### Super Thinking
+Author: Gabriel Weinberg  
+[Highlights](books/super_thinking.md)  
+[Amazon](https://amzn.to/3iNNtOu)  
+[Goodreads](https://www.goodreads.com/book/show/41181911-super-thinking)  
+
+### Build Your Family Bank
+Author: Emily Griffiths-Hamilton  
+[Highlights](books/build_your_family_bank.md)  
+[Amazon](https://amzn.to/3eVRteL)  
+[Goodreads](https://www.goodreads.com/book/show/20893884-build-your-family-bank)  
+
+### Astrophysics for People in a Hurry
+Author: Neil DeGrasse Tyson  
+[Highlights](books/astrophysics_for_people_in_a_hurry.md)  
+[Amazon](https://amzn.to/3kT1ayz)  
+[Goodreads](https://www.goodreads.com/book/show/32191710-astrophysics-for-people-in-a-hurry)  
+
+### Atomic Habits: Tiny Changes, Remarkable Results
+Author: James Clear  
+[Highlights](books/atomic_habits.md)  
+[Amazon](https://amzn.to/36WPkeD)  
+[Goodreads](https://www.goodreads.com/book/show/40121378-atomic-habits)  
+
+### The Conquest of Happiness
+Author: Bertrand Russell  
+[Highlights](books/the_conquest_of_happiness.md)  
+[Amazon](https://amzn.to/3kTYvom)  
+[Goodreads](https://www.goodreads.com/book/show/51783.The_Conquest_of_Happiness)  
+
+### Brief Answers to the Big Questions
+Author: Stephen Hawking  
+[Highlights](books/brief_answers_to_the_big_questions.md)  
+[Amazon](https://amzn.to/3iOaj8I)  
+[Goodreads](https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions)  
+
+# Can't Hurt Me: Master Your Mind and Defy the Odds
+Author: David Goggins  
+[Highlights](books/cant_hurt_me.md)  
+[Amazon](https://amzn.to/2UPeQ2G)  
+[Goodreads](goodreads.com/book/show/41721428-can-t-hurt-me)  
+
+### Capital in the Twenty-First Century
+Author: Thomas Piketty  
+[Highlights](books/capital_in_the_21st_century.md)  
+[Amazon](https://amzn.to/2WdBUIR)  
+[Goodreads](https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century)  
+
+### Conscious
+Author: Annaka Harris  
+[Highlights](books/conscious.md)  
+[Amazon](https://amzn.to/3zy3jUq)  
+[Goodreads](https://www.goodreads.com/book/show/41571759-conscious)  
