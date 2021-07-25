@@ -193,7 +193,7 @@ Author: Stephen Hawking
 [Amazon](https://amzn.to/3iOaj8I)  
 [Goodreads](https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions)  
 
-# Can't Hurt Me: Master Your Mind and Defy the Odds
+### Can't Hurt Me: Master Your Mind and Defy the Odds
 Author: David Goggins  
 [Highlights](books/cant_hurt_me.md)  
 [Amazon](https://amzn.to/2UPeQ2G)  
