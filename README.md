@@ -6,14 +6,17 @@ Author: Bill Perkins
 [Highlights](books/die_with_zero.md)  
 [Amazon](https://amzn.to/36zGEuc)  
 [Goodreads](https://www.goodreads.com/book/show/52950915-die-with-zero)  
-  
-\
+
+
+
 ### Ultralearning
 Author: Scott Young  
 [Highlights](books/ultralearning.md)  
 [Amazon](https://amzn.to/36zJEqt)  
 [Goodreads](https://www.goodreads.com/book/show/44770129-ultralearning)  
-  
+
+
+
 ### Tuesdays with Morrie
 Author: Mitch Albom  
 [Highlights](books/tuesdays_with_morrie.md)  
