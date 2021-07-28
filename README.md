@@ -98,7 +98,7 @@ Author: Yuval Noah Harari
 [Goodreads](https://amzn.to/3r9WB3P)  
 
 ### The 80/20 Principle: The Secret to Achieving More with Less
-Author: Richard Koch
+Author: Richard Koch  
 [Highlights](books/80_20_principle.md)  
 [Amazon](https://amzn.to/3xHiF8i)  
 [Goodreads](https://www.goodreads.com/book/show/181206.The_80_20_Principle)  
