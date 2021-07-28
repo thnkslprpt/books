@@ -86,7 +86,7 @@ Author: Kapil Gupta
 [Goodreads](https://www.goodreads.com/book/show/40947505-direct-truth)  
 
 ### The Art of Travel
-Author: Alain de Botton
+Author: Alain de Botton  
 [Highlights](books/the_art_of_travel.md)  
 [Amazon](https://amzn.to/3B0PVJL)  
 [Goodreads](https://www.goodreads.com/book/show/23422.The_Art_of_Travel)  
