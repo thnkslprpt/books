@@ -210,4 +210,11 @@ Author: Annaka Harris
 [Highlights](books/conscious.md)  
 [Amazon](https://amzn.to/3zy3jUq)  
 [Goodreads](https://www.goodreads.com/book/show/41571759-conscious)  
-  
+
+### Principles: Life and Work
+Author: Ray Dalio  
+[Highlights](books/principles.md)  
+[Amazon](https://amzn.to/3iXTCaV)  
+[Goodreads](https://www.goodreads.com/book/show/34536488-principles)  
+
+
