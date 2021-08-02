@@ -288,9 +288,3 @@ Author: Stuart Clark
 [Highlights](books/big_questions.md)  
 [Amazon](https://amzn.to/3C9KJnq)  
 [Goodreads](https://www.goodreads.com/book/show/9286353-the-big-questions-the-universe)  
-
-### 
-Author: 
-[Highlights](books/
-[Amazon](
-[Goodreads](
