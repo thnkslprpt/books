@@ -217,4 +217,80 @@ Author: Ray Dalio
 [Amazon](https://amzn.to/3iXTCaV)  
 [Goodreads](https://www.goodreads.com/book/show/34536488-principles)  
 
+### The Whole-Brain Child
+Author: Daniel Siegel  
+[Highlights](books/whole_brain_child.md)  
+[Amazon](https://amzn.to/3jaDNhr)  
+[Goodreads](https://www.goodreads.com/book/show/10353369-the-whole-brain-child)  
 
+### Tools of Titans
+Author: Timothy Ferriss  
+[Highlights](books/tools_of_titans.md)  
+[Amazon](https://amzn.to/3xdbXGg)  
+[Goodreads](https://www.goodreads.com/cs/book/show/33029607-tools-of-titans)  
+
+### Tribe of Mentors: Short Life Advice from the Best in the World
+Author: Tim Ferriss  
+[Highlights](books/tribe_of_mentors.md)  
+[Amazon](https://amzn.to/3fiq4nl)  
+[Goodreads](https://www.goodreads.com/book/show/36200111-tribe-of-mentors)  
+
+### Unshakeable
+Author: Tony Robbins  
+[Highlights](books/unshakeable.md)  
+[Amazon](https://amzn.to/3xiqqRa)  
+[Goodreads](https://www.goodreads.com/book/show/40885164-unshakeable)  
+
+### Wherever You Go, There You Are
+Author: Jon Kabat-Zinn  
+[Highlights](books/wherever_you_go.md)  
+[Amazon](https://amzn.to/3xdmpxq)  
+[Goodreads](https://www.goodreads.com/book/show/14096.Wherever_You_Go_There_You_Are)  
+
+### The Rise of Superman: Decoding the Science of Ultimate Human Performance
+Author: Steven Kotler  
+[Highlights](books/the_rise_of_superman.md)  
+[Amazon](https://amzn.to/3xg6luN)  
+[Goodreads](https://www.goodreads.com/book/show/18222878-the-rise-of-superman)  
+
+### The Quest of the Simple Life
+Author: William J Dawson  
+[Highlights](books/quest_of_the_simple_life.md)  
+[Amazon](https://amzn.to/3C55Szk)  
+[Goodreads](https://www.goodreads.com/book/show/18670760-the-quest-of-the-simple-life)  
+
+### The Man's Guide to Women
+Authors: John and Julie Gottman  
+[Highlights](books/mans_guide_to_women.md)  
+[Amazon](https://amzn.to/3jeVn3D)  
+[Goodreads](https://www.goodreads.com/book/show/25664439-the-man-s-guide-to-women)  
+
+### The Magic of Thinking Big
+Author: David Schwartz  
+[Highlights](books/magic_of_thinking_big.md)  
+[Amazon](https://amzn.to/2WMsTH9)  
+[Goodreads](https://www.goodreads.com/book/show/759945.The_Magic_of_Thinking_Big)  
+
+### The Great Filter
+Author: Robin Hanson  
+[Highlights](books/the_great_filter.md)  
+[Wikipedia](https://en.wikipedia.org/wiki/Great_Filter)  
+[Original Paper](https://mason.gmu.edu/~rhanson/greatfilter.html)  
+
+### The End of Faith: Religion, Terror, and the Future of Reason
+Author: Sam Harris  
+[Highlights](books/the_end_of_faith.md)  
+[Amazon](https://amzn.to/3fjkl0U)  
+[Goodreads](https://www.goodreads.com/book/show/29501.The_End_of_Faith)  
+
+### The Big Questions The Universe
+Author: Stuart Clark  
+[Highlights](books/big_questions.md)  
+[Amazon](https://amzn.to/3C9KJnq)  
+[Goodreads](https://www.goodreads.com/book/show/9286353-the-big-questions-the-universe)  
+
+### 
+Author: 
+[Highlights](books/
+[Amazon](
+[Goodreads](
