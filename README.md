@@ -209,7 +209,6 @@ Author: Jon Kabat-Zinn
 ### The Rise of Superman: Decoding the Science of Ultimate Human Performance
 Author: Steven Kotler  
 [Highlights](books/the_rise_of_superman.md)  
-[Amazon](https://amzn.to/3xg6luN)  
 [Goodreads](https://www.goodreads.com/book/show/18222878-the-rise-of-superman)  
 
 ### The Quest of the Simple Life
