@@ -24,7 +24,6 @@ Author: Annie Duke
 ### The Bed of Procrustes
 Author: Nassim Nicholas Taleb  
 [Highlights](books/the_bed_of_procrustes.md)  
-[Amazon](https://amzn.to/3keEzMf)  
 [Goodreads](https://www.goodreads.com/book/show/9402297-the-bed-of-procrustes)  
 
 ### A Guide to the Good Life: The Ancient Art of Stoic Joy
